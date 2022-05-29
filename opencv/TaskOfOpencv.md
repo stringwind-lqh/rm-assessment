@@ -21,3 +21,7 @@
 
 ## 提供的参数
 口罩的长宽比大致为 17:9
+
+
+鄙人的结果图
+![口罩](https://user-images.githubusercontent.com/88667447/170858291-e807d210-34ff-40c5-a39d-2d26ce83dafb.png)
